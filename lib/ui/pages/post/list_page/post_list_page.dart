@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_blog/data/dto/user_request.dart';
-import 'package:flutter_blog/data/provider/session_provider.dart';
+import 'package:flutter_blog/data/store/session_store.dart';
 import 'package:flutter_blog/ui/pages/post/list_page/post_list_view_model.dart';
 import 'package:flutter_blog/ui/pages/post/list_page/wiegets/post_list_body.dart';
 import 'package:flutter_blog/ui/widgets/custom_navigator.dart';
